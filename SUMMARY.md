@@ -1,3 +1,11 @@
 # Table of contents
 
-* [Page](README.md)
+* [📘 Page](README.md)
+
+## ℹ️ Information générale
+
+* [❗ Règlement I-G](information-generale/reglement-i-g.md)
+
+## Les outils
+
+* [coreprotect](les-outils/coreprotect.md)
