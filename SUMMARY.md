@@ -8,4 +8,5 @@
 
 ## Les outils
 
-* [coreprotect](les-outils/coreprotect.md)
+* [coreprotect](les-outils/coreprotect/README.md)
+  * [Détail para](les-outils/coreprotect/detail-para.md)
