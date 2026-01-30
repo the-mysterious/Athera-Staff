@@ -35,26 +35,26 @@ ex: <mark style="color:$success;">**r:50 effectue un lookup dans un rayon de 50 
 
 Vous permet de choisir une action en particulier depuis la liste si dessous:
 
-| Action       | Description |
-| ------------ | ----------- |
-| a:block      |             |
-| a:+block     |             |
-| a:-block     |             |
-| a:chat       |             |
-| a:click      |             |
-| a:command    |             |
-| a:container  |             |
-| a:+container |             |
-| a:-container |             |
-| a:inventory  |             |
-| a:+inventory |             |
-| a:-inventory |             |
-| a:item       |             |
-| a:+item      |             |
-| a:-item      |             |
-| a:kill       |             |
-| a:session    |             |
-| a:+session   |             |
-| a:-session   |             |
-| a:sign       |             |
-| a:username   |             |
+| Action       | Description   |
+| ------------ | ------------- |
+| a:block      |               |
+| a:+block     | Block poser   |
+| a:-block     | Block détruit |
+| a:chat       |               |
+| a:click      |               |
+| a:command    |               |
+| a:container  |               |
+| a:+container |               |
+| a:-container |               |
+| a:inventory  |               |
+| a:+inventory |               |
+| a:-inventory |               |
+| a:item       |               |
+| a:+item      |               |
+| a:-item      |               |
+| a:kill       |               |
+| a:session    |               |
+| a:+session   |               |
+| a:-session   |               |
+| a:sign       |               |
+| a:username   |               |
