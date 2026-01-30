@@ -30,11 +30,14 @@ Retrouver plus de détaille sur: [detail-para.md](detail-para.md "mention")
 | <mark style="color:$danger;">`r:<radius>`</mark>  | Choisir un rayon autour de vous en X blocss <mark style="color:$danger;">**X ≤ 100**</mark> |
 | <mark style="color:$danger;">`a:<action>`</mark>  | Choisir une action en particulier                                                           |
 | <mark style="color:$danger;">`i:<include>`</mark> | Inclure un bloc/entités spécifique                                                          |
-| <mark style="color:$danger;">`e:<exclude>`</mark> | Exclure un bloc/entitiées spécifique                                                        |
+| <mark style="color:$danger;">`e:<exclude>`</mark> | Exclure un bloc/entités spécifique                                                          |
 
 Vous pouvez avoir besoin de changer de page pour se faire vous pouvez:
 
 * cliquer sur le numéro de la page qui vous intéresse
+* Ou effectuer la commande  /co lookup \<page> si besoin \<ligne>
+
+
 
 
 
