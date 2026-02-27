@@ -31,7 +31,7 @@ Il s'agit du lien pour le wiki joueur en attendant.
 
 ***
 
-if you see this the test is good
+if you see this the test is good ....................
 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif"/>
